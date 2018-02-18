@@ -162,8 +162,12 @@
 		padding-left: 20px;
 	}
 	
-	.header img {
-		width: 80%;
+	.header div {
+		width: 30%;
+	}
+	
+	.header div img{
+		width: 100%;
 	}
 }
 
