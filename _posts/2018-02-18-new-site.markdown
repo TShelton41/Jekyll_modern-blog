@@ -8,6 +8,7 @@ date:   2015-04-20 12:12:12
 ---
 
 ### Using GitHub as my new Blog Platform
+
 I have been wanting to do this for a while but haven't been able to have the time to get anything done with moving my blog over the GitHub. 
 
 Today was the day. So this post is only here to see if I'm doing everything ok and what fails when I load it in a browser. 
