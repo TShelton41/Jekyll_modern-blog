@@ -192,6 +192,10 @@
 		padding: 25px 0px 100px;
 	}
 	
+	.header .profileImage {
+		display: none;
+	}
+	
 	
 }
 
